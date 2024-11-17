@@ -6,7 +6,7 @@
 |--------------------|--------------------------|----------------------------------|
 | `copy (cp)`              | `Copy-Item`             | Copier des fichiers ou dossiers. |
 | `remove (rm)`              | `Remove-Item`           | Supprimer des fichiers ou dossiers. |
-| `change directory (cd)`              | `change directory (cd)`                    | Changer de répertoire.           |
+| `change directory (cd)`              | `Set-Location`                    | Changer de répertoire.           |
 | `make direction (mkdir)`           | `make direction (mkdir)`                 | Créer un nouveau dossier. |
 | `manual (man)`             | `Get-Help`              | Afficher l'aide pour une commande. |
 | `history`         | `Get-History`           | Afficher l'historique des commandes. |
