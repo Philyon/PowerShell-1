@@ -4,14 +4,14 @@
 
 | **Commande Bash** | **Commande Powershell** | **Description**                  |
 |--------------------|--------------------------|----------------------------------|
-| `cp (copy)`              | `Copy-Item`             | Copier des fichiers ou dossiers. |
-| `rm (remove)`              | `Remove-Item`           | Supprimer des fichiers ou dossiers. |
-| `cd (change directory)`              | `cd (change directory)`                    | Changer de répertoire.           |
-| `mkdir (make direction)`           | `mkdir (make direction)`                 | Créer un nouveau dossier. |
-| `man (manual)`             | `Get-Help`              | Afficher l'aide pour une commande. |
+| `copy (cp)`              | `Copy-Item`             | Copier des fichiers ou dossiers. |
+| `remove (rm)`              | `Remove-Item`           | Supprimer des fichiers ou dossiers. |
+| `change directory (cd)`              | `change directory (cd)`                    | Changer de répertoire.           |
+| `make direction (mkdir)`           | `make direction (mkdir)`                 | Créer un nouveau dossier. |
+| `manual (man)`             | `Get-Help`              | Afficher l'aide pour une commande. |
 | `history`         | `Get-History`           | Afficher l'historique des commandes. |
 | `alias`           | `Set-Alias`             | Créer ou modifier un alias.      |
-| `cat (concatenate)`             | `cat (concatenate)`                   | Lire et afficher le contenu d'un fichier. |
+| `concatenate (cat)`             | `concatenate (cat)`                   | Lire et afficher le contenu d'un fichier. |
 
 ## Les commandes utilisées lors de la quête
 
