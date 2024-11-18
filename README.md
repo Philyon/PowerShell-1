@@ -7,11 +7,11 @@
 | `copy (cp)`              | `Copy-Item`             | Copier des fichiers ou dossiers. |
 | `remove (rm)`              | `Remove-Item`           | Supprimer des fichiers ou dossiers. |
 | `change directory (cd)`              | `Set-Location`                    | Changer de répertoire.           |
-| `make direction (mkdir)`           | `make direction (mkdir)`                 | Créer un nouveau dossier. |
+| `make direction (mkdir)`           | `New-Item`                 | Créer un nouveau dossier. |
 | `manual (man)`             | `Get-Help`              | Afficher l'aide pour une commande. |
 | `history`         | `Get-History`           | Afficher l'historique des commandes. |
 | `alias`           | `Get-Alias`             | Lister les alias disponibles.      |
-| `concatenate (cat)`             | `concatenate (cat)`                   | Lire et afficher le contenu d'un fichier. |
+| `concatenate (cat)`             | `Get-Content`                   | Lire et afficher le contenu d'un fichier. |
 
 ## Les commandes utilisées lors de la quête
 
