@@ -10,7 +10,7 @@
 | `make direction (mkdir)`           | `make direction (mkdir)`                 | Créer un nouveau dossier. |
 | `manual (man)`             | `Get-Help`              | Afficher l'aide pour une commande. |
 | `history`         | `Get-History`           | Afficher l'historique des commandes. |
-| `alias`           | `Set-Alias`             | Créer ou modifier un alias.      |
+| `alias`           | `Get-Alias`             | Lister les alias disponibles.      |
 | `concatenate (cat)`             | `concatenate (cat)`                   | Lire et afficher le contenu d'un fichier. |
 
 ## Les commandes utilisées lors de la quête
